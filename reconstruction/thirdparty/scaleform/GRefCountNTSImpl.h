@@ -1,7 +1,7 @@
 // Source exposure: mixed (community declarations and the contributor-owned pack).
 // Code origin: declarations from CommonLibSSE-NG (GRefCountImplCore, GRefCountNTSImpl), reduced to the members used here.
 // SPDX-License-Identifier: MIT (CommonLibSSE-NG declarations, Copyright (c) 2018 Ryan-rsm-McKenzie; full text: licenses/CommonLibSSE-NG.txt)
-// GRefCountImplCore, GRefCountImplCore::~GRefCountImplCore, _refCount: COMMUNITY(CharmedBaryon/CommonLibSSE-NG@b93280e, MIT)
+// GRefCountImplCore, GRefCountImplCore::~GRefCountImplCore, _refCount, _pad0C: COMMUNITY(CharmedBaryon/CommonLibSSE-NG@b93280e, MIT)
 // GRefCountNTSImpl, GRefCountNTSImpl::Release: COMMUNITY(CharmedBaryon/CommonLibSSE-NG@b93280e, MIT)
 // GRefCountNTSImpl::Release: CRASHLOGGER_PDB(59818@2026.10.24)
 #pragma once
